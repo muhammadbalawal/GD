@@ -16,5 +16,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-25T23:53:06.866Z",
     "id": "accident-1745625186866"
+  },
+  {
+    "summary": "Two cars collided on a multi-lane road. It appears one car rear-ended the other, causing significant damage to both vehicles. A third car and a van are also visible nearby.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-25T23:53:07.098Z",
+    "id": "accident-1745625187098"
   }
 ]
