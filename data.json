@@ -16,5 +16,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T03:45:25.896Z",
     "id": "accident-1745639125896"
+  },
+  {
+    "summary": "A white car appears to have collided with another white car on a multi-lane road. The second car's trunk is open and debris is visible in the air. A van and another car are also visible in the background.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T03:48:35.676Z",
+    "id": "accident-1745639315676"
   }
 ]
