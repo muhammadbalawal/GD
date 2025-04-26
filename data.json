@@ -151,5 +151,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T15:32:04.477Z",
     "id": "accident-1745681524477"
+  },
+  {
+    "summary": "A car accident occurred at an intersection at night. It appears that at least two vehicles collided in the intersection. One car is in the middle of the intersection and another is on the side of the road.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T15:35:07.620Z",
+    "id": "accident-1745681707620"
   }
 ]
