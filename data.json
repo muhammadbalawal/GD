@@ -232,5 +232,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T21:05:07.193Z",
     "id": "accident-1745701507193"
+  },
+  {
+    "summary": "A white car appears to have collided with another white car, causing it to spin out of control. A third vehicle, a dark-colored car, is visible in the distance. A white van is also present on the road. The collision seems to have occurred on a multi-lane road at night.",
+    "cars_involved": "3",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T21:10:57.409Z",
+    "id": "accident-1745701857409"
   }
 ]
