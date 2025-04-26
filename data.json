@@ -205,5 +205,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T19:32:41.742Z",
     "id": "accident-1745695961742"
+  },
+  {
+    "summary": "Two cars collided in the middle of the road. One car appears to have crossed into the path of the other, resulting in a side impact. A third vehicle is visible further down the road.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T20:23:36.603Z",
+    "id": "accident-1745699016603"
   }
 ]
