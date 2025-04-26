@@ -106,5 +106,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T04:25:21.533Z",
     "id": "accident-1745641521533"
+  },
+  {
+    "summary": "An accident occurred at an intersection at night. It appears that at least two cars collided in the middle of the intersection. One car is spinning out of control. The cause of the accident is not clear from the image, but it appears to be a high-impact collision.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T04:36:03.199Z",
+    "id": "accident-1745642163199"
   }
 ]
