@@ -124,5 +124,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T04:37:11.104Z",
     "id": "accident-1745642231104"
+  },
+  {
+    "summary": "Two cars collided on a road. One car appears to have rear-ended the other, causing significant damage to both vehicles. A third car and a van are also visible on the road, but their involvement in the accident is unclear.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T04:37:11.261Z",
+    "id": "accident-1745642231261"
   }
 ]
