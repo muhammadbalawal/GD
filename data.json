@@ -43,5 +43,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T03:50:32.928Z",
     "id": "accident-1745639432928"
+  },
+  {
+    "summary": "A white car appears to have collided with another white car in the middle of the road. The second car's trunk is open, and debris is visible in the air. A white van is also present on the road, and another car is visible in the distance.",
+    "cars_involved": "3",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T03:51:20.633Z",
+    "id": "accident-1745639480633"
   }
 ]
