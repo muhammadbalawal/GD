@@ -223,5 +223,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T20:55:58.304Z",
     "id": "accident-1745700958304"
+  },
+  {
+    "summary": "Two cars collided head-on in the middle of the road. One car appears to have crossed the median. Debris is scattered around the accident site. A person is seen exiting one of the vehicles after the impact.",
+    "cars_involved": "2",
+    "humans_injured": "1",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T21:05:07.193Z",
+    "id": "accident-1745701507193"
   }
 ]
