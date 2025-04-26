@@ -1,1 +1,11 @@
-
+[
+  {
+    "summary": "Two white cars collided on a multi-lane road. One car appears to have rear-ended the other, causing significant damage to both vehicles. Debris is scattered on the road. A person is seen ejected from one of the vehicles.",
+    "cars_involved": "2",
+    "humans_injured": "1",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T03:43:12.233Z",
+    "id": "accident-1745638992233"
+  }
+]
