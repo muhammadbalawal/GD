@@ -214,5 +214,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T20:23:36.603Z",
     "id": "accident-1745699016603"
+  },
+  {
+    "summary": "A white car appears to have rear-ended another white car on a multi-lane road. The impact caused significant damage to the rear-ended vehicle, with the trunk open and debris scattered. A van and another car are also visible in the background.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T20:55:58.304Z",
+    "id": "accident-1745700958304"
   }
 ]
