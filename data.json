@@ -196,5 +196,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T19:26:52.737Z",
     "id": "accident-1745695612737"
+  },
+  {
+    "summary": "Two cars collided head-on in the middle of a multi-lane road. One car appears to have crossed the center line, resulting in a high-impact collision. Debris is scattered around the impact zone.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T19:32:41.742Z",
+    "id": "accident-1745695961742"
   }
 ]
