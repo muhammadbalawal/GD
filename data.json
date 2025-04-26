@@ -25,5 +25,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-25T23:53:07.098Z",
     "id": "accident-1745625187098"
+  },
+  {
+    "summary": "A white car appears to have collided with another white car in the middle of the road. The impact caused damage to both vehicles. A van and another car are also visible in the background, but their involvement in the accident is unclear.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T03:41:53.831Z",
+    "id": "accident-1745638913831"
   }
 ]
