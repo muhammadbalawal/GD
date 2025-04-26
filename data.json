@@ -61,5 +61,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T03:51:20.831Z",
     "id": "accident-1745639480831"
+  },
+  {
+    "summary": "Two cars collided head-on in the middle of the road. One car appears to have crossed the center line, resulting in the collision. A third car and a van are also present on the road, but their involvement in the accident is unclear.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T04:13:51.285Z",
+    "id": "accident-1745640831286"
   }
 ]
