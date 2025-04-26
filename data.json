@@ -160,5 +160,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T15:35:07.620Z",
     "id": "accident-1745681707620"
+  },
+  {
+    "summary": "Multiple vehicles collided at an intersection. It appears one car was turning left when it was struck by another vehicle traveling straight. Other cars may have been involved in secondary collisions or were attempting to avoid the initial crash.",
+    "cars_involved": "3",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T15:47:27.917Z",
+    "id": "accident-1745682447917"
   }
 ]
