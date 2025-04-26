@@ -34,5 +34,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T03:50:13.536Z",
     "id": "accident-1745639413536"
+  },
+  {
+    "summary": "A white car appears to have rear-ended another white car on a multi-lane road. The impact caused the trunk of the car that was hit to open. A van is also present on the road, but it is unclear if it was involved in the accident.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T03:50:32.928Z",
+    "id": "accident-1745639432928"
   }
 ]
