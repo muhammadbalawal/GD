@@ -187,5 +187,14 @@
     "ambulance_present": "no",
     "timestamp": "2025-04-26T17:33:19.256Z",
     "id": "accident-1745688799256"
+  },
+  {
+    "summary": "Two cars collided head-on in the middle of the road. One car appears to have significant damage to its front end, and the other car has its trunk open and debris scattered around it. The collision appears to have been forceful.",
+    "cars_involved": "2",
+    "humans_injured": "0",
+    "fire_hydrant_damaged": "no",
+    "ambulance_present": "no",
+    "timestamp": "2025-04-26T19:26:52.737Z",
+    "id": "accident-1745695612737"
   }
 ]
